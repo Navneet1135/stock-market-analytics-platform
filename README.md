@@ -1,5 +1,9 @@
 # 📈 Stock Market Analytics Platform
 
+
+🚀 Live Demo:
+https://stock-market-analytics-platform.streamlit.app
+
 ## Overview
 
 The Stock Market Analytics Platform is an end-to-end Data Science and Machine Learning project designed to analyze stock market behavior, generate trading insights, and forecast future stock prices.
