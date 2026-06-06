@@ -136,7 +136,7 @@ A Streamlit dashboard was developed to provide:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/stock-market-analytics-platform.git
+git clone https://github.com/Navneet1135/stock-market-analytics-platform.git
 ```
 
 ### Move to Project Folder
@@ -185,15 +185,6 @@ stock-market-analytics-platform/
 
 ---
 
-## Resume Highlights
-
-- Developed an end-to-end Stock Market Analytics Platform using Python, Streamlit, Random Forest, XGBoost, and Prophet.
-- Engineered technical indicators including RSI, MACD, and Volatility.
-- Built forecasting models to predict future stock price trends.
-- Designed an interactive dashboard for technical analysis, risk assessment, and forecasting.
-
----
-
 ## Author
 
-Developed as a Data Science and Machine Learning portfolio project.
+Navneet Pal
